@@ -11,7 +11,7 @@ It also serves as a portfolio piece demonstrating my front-end development and g
 ## ✨ Features
 
 - 🗂️ **Word Theme Selector** – Users can mix 1–5 words from various themes
-- ✍️ **Poem Generation Engine** – Uses js to dynamically construct and render the poem
+- ✍️ **Poem Generation Engine** – Uses JavaScript (p5.js) to dynamically construct and render the poem
 - 🎨 **Responsive Design** – Styled with CSS to adapt across screen sizes
 - 🌸 **Mother’s Day Theme** – Soft visuals and gentle UX to evoke emotion
 
@@ -24,7 +24,6 @@ It also serves as a portfolio piece demonstrating my front-end development and g
 ![image](https://github.com/user-attachments/assets/32dbeb8f-1c8a-47dc-85a6-85d382fa97b1)
 ![image](https://github.com/user-attachments/assets/f721f7ea-f4ea-4f27-96ac-c0fa8a3397f9)
 ![image](https://github.com/user-attachments/assets/d975729e-2d67-4606-87a4-dbda08a4839e)
-![image](https://github.com/user-attachments/assets/10a28d08-68b9-4b9a-a7ee-11a97e1e1702)
 
 Icon Credits: Flaticon and SVG & PNG Tech Icons
 
