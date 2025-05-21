@@ -22,11 +22,10 @@ It also serves as a portfolio piece demonstrating my front-end development and g
 
 ## 🛠️ Built With
 ![image](https://github.com/user-attachments/assets/32dbeb8f-1c8a-47dc-85a6-85d382fa97b1)
-![image](https://github.com/user-attachments/assets/f721f7ea-f4ea-4f27-96ac-c0fa8a3397f9)
+![image](https://github.com/user-attachments/assets/349ca313-639c-49ef-99e0-021bdf471c34)
 ![image](https://github.com/user-attachments/assets/d975729e-2d67-4606-87a4-dbda08a4839e)
 
-Icon Credits: Flaticon and SVG & PNG Tech Icons
-
+Icon Credits: Flaticon
 ## 📸 Screenshots
 
 → Menu Page:
