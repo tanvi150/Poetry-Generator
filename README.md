@@ -1,6 +1,6 @@
 # 🌼 Mother's Day Poetry Generator
 
-This poetry generator was made with love for Mother's Day 💛 
+This poetry generator was made with love for Mother's Day 💛. 
 It combines creative coding, user interaction, and generative design.
 
 ## 🎯 Purpose
